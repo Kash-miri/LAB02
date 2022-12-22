@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 main(){
+system("Color 0A");
 cout << "         ----------------                                                                                                                   "<<endl;
 cout << "        ------------------                                 _________    _     _     ________     __    __     _____     __         __          "<<endl;
 cout << "       ----    ------------                                |   _   |   | |   | |   |        |   |  |  |  |   |  _  |   |  \\      |  |         "<<endl;
